@@ -1,5 +1,5 @@
 context:
-  version: "0.7.0"
+  version: "0.8.0"
 
 package:
   name: pysad
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/p/pysad/pysad-${{ version }}.tar.gz
-  sha256: 565de8e2fb3b57a832b22332e20d06fefa4941365c15f2a16d9d628b2e6f94e7
+  sha256: 7df09667f0d6742ebc444dee074edeba48bccc5ad2ce2b2ba5520dd131ed88aa
 
 build:
   number: 0
